@@ -1,0 +1,16 @@
+ultralytics==8.3.0
+opencv-python
+streamlit
+numpy
+pandas
+yt-dlp
+matplotlib
+plotly
+easyocr
+pillow
+torch
+torchvision
+filterpy
+scipy
+tqdm
+requests
